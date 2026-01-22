@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+LOGIC_GUIDE.md
+IMPLEMENTATION_LOGIC.txt

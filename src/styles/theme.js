@@ -1,0 +1,33 @@
+export const lightTheme = {
+    primary: '#3b82f6',
+    background: '#f0f4f8', 
+    gradientBg: 'linear-gradient(135deg, #e0f2fe 0%, #f0f9ff 100%)', 
+    surface: 'rgba(255, 255, 255, 0.65)', 
+    text: '#1e293b',
+    textSecondary: '#64748b',
+    border: 'rgba(255, 255, 255, 0.4)', 
+    userBubble: '#3b82f6',
+    userText: '#ffffff',
+    agentBubble: 'rgba(255, 255, 255, 0.5)',
+    agentText: '#1e293b',
+    glass: 'rgba(255, 255, 255, 0.25)',
+    shadow: '0 8px 32px 0 rgba(31, 38, 135, 0.15)', 
+    backdropFilter: 'blur(12px)',
+};
+
+export const darkTheme = {
+    primary: '#60a5fa',
+    background: '#0f172a',
+    gradientBg: 'linear-gradient(135deg, #0f172a 0%, #1e293b 100%)',
+    surface: 'rgba(30, 41, 59, 0.65)', 
+    text: '#f1f5f9',
+    textSecondary: '#94a3b8',
+    border: 'rgba(255, 255, 255, 0.1)', 
+    userBubble: '#2563eb',
+    userText: '#ffffff',
+    agentBubble: 'rgba(51, 65, 85, 0.5)',
+    agentText: '#f1f5f9',
+    glass: 'rgba(15, 23, 42, 0.5)',
+    shadow: '0 8px 32px 0 rgba(0, 0, 0, 0.3)', 
+    backdropFilter: 'blur(12px)',
+};
