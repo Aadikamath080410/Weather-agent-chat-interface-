@@ -423,7 +423,6 @@ export const useChat = () => {
         createThread,
         deleteThread,
         renameThread,
-        renameThread,
         switchThread,
         addReaction,
     };
