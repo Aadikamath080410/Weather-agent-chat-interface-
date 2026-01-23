@@ -4,7 +4,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Aadikamath080410/Weather-agent.git
    cd weather
    ```
 
